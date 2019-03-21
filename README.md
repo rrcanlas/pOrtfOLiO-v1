@@ -13,5 +13,7 @@
    CSS
 
    FontAwesome 
+   
+   Google Font: [Philosopher](https://fonts.google.com/?query=Philosopher)
 
    Powered by [w3schools](https://www.w3schools.com/w3css/4/w3.css)
